@@ -4,7 +4,7 @@ public class TestReg {
 
 	
 	public static void main(String[] args) {
-		String str = "";
+//		String str = "";
 		//System.err.println(str.matches("[\u4e00-\u9fa5]"));
 		//System.err.println(str.matches("a?"));
 		
